@@ -42,6 +42,10 @@ INSTALLED_APPS = [
     'ckeditor',
     'ckeditor_uploader',
     'multiselectfield',
+    'django.contrib.humanize',
+    'django.contrib.sites',
+    
+
 ]
 
 MIDDLEWARE = [
